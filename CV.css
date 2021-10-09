@@ -1,0 +1,43 @@
+.main{
+    display: flex;
+}
+.one {
+    background-color: lightblue;
+    width: 313px;
+    border-radius: 10px 30px 0px 0px;
+    padding: 10px;
+}
+
+#profilePic{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+body > sidebar > h3, h4 {
+    display: flex;
+}
+body > sidebar > h3, h4 > span > hr {
+    width: 313px;
+}
+.three{
+    padding: 10px;
+}
+.twoo{
+    margin-left:8px;
+}
+.quali{
+    padding-left: 420px;
+    text-decoration: underline;
+}
+.DIVTWO{
+    padding: 40px;
+}
+.underline{
+    text-decoration: underline 2px;
+}
+.Institute{
+    text-decoration: underline 1px;
+}
+.text1{
+    font-weight: bold;
+}
